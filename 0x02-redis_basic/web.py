@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-''' Implementing an expiring web cache and tracke
+'''A module with tools for request caching and tracking.
 '''
 import redis
 import requests
